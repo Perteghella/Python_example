@@ -1,3 +1,3 @@
 # Python_example
 
-Example and snippets in python using Jupiter notebook to show the results
+Example and snippets in python and pandas using Jupiter notebook to show the results
